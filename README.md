@@ -5,8 +5,6 @@
 - Python
 - Java
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-
 ![DaYzTm's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaYzTm&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaYzTm&layout=compact&theme=radical)
