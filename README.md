@@ -4,7 +4,4 @@
 # 📊 GitHub Stats:
 ![DaYzTm GitHub stats](https://github-readme-stats.vercel.app/api?username=DaYzTm&amp;include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaYzTm&theme=dark&hide_border=true)<br/>
-![][(https://github-readme-stats.vercel.app/api/top-langs/?username=DaYzTm&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats.vercel.app/api?username=DaYzTm&show_icons=true&include_all_commits=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=DaYzTm&icon=0&color=0)](https://visitcount.itsvg.in)
