@@ -97,14 +97,11 @@ me.say_hi()
 ## 📊 GitHub статистика
 
 <div align="center">
-<p>
+<!-- Два основных графика рядом -->
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaYzTm&layout=compact&theme=tokyonight" />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaYzTm&theme=tokyonight&hide_border=false" />
-</p>
+</div>
 
 <!-- Трофеи GitHub -->
 <p>
@@ -118,20 +115,32 @@ me.say_hi()
 <!-- Анимированная разделительная линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤖 Моя философия ИИ
+## 💾 Мой технологический радар
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRvYnI2dDNzZnNlNnc1ZjRvMzFjbzRnZ2VnYnZwbTNnbGl0Nm9nOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="300px" alt="ИИ анимация" />
-
-```python
-def my_ai_philosophy():
-    return {
-        "vision": "Создавать ИИ, который дополняет человеческие способности, а не заменяет их",
-        "approach": "Использовать данные и алгоритмы для решения реальных проблем",
-        "ethics": "Разрабатывать ИИ с учетом этических принципов и социальной ответственности"
-    }
-```
+<table>
+  <tr>
+    <td align="center">
+      <h3>🔥 Сейчас использую</h3>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/><br>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/><br>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td align="center">
+      <h3>🔍 Изучаю</h3>
+      <img src="https://img.shields.io/badge/LangChain-%232C8EBB.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/><br>
+      <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/><br>
+      <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray"/>
+    </td>
+    <td align="center">
+      <h3>💭 Рекомендую</h3>
+      <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases"/><br>
+      <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="MLflow"/><br>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
