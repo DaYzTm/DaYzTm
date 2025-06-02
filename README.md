@@ -119,31 +119,37 @@ me.say_hi()
 <!-- Анимированная разделительная линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 Проекты
+## 🧩 Интересные факты
 
 <div align="center">
-<a href="https://github.com/DaYzTm/Kemuri-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaYzTm&repo=Kemuri-API&theme=tokyonight" />
-</a>
+
+### 💡 Знаете ли вы?
+
+```text
+"Искусственный интеллект — это будущее, которое уже наступило."
+```
+
+<!-- Цитата дня -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Цитата дня" width="70%" />
+
 </div>
 
 <!-- Анимированная разделительная линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Связаться со мной
+## 🎯 Текущие цели
 
 <div align="center">
-<p>
-  <a href="https://github.com/DaYzTm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email"/>
-  </a>
-</p>
+
+| 🚀 Цель | ⏱️ Статус |
+|---------|----------|
+| Разработка Kemuri API | В процессе |
+| Оптимизация алгоритмов машинного обучения | Запланировано |
+| Исследование нейросимбиоза человека и ИИ | В поисках просветления |
 
 <!-- Шутка для разработчиков -->
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
 </div>
 
 <!-- Анимированный футер -->
