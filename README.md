@@ -112,9 +112,6 @@ me.say_hi()
 <img src="https://activity-graph.herokuapp.com/graph?username=DaYzTm&theme=react-dark&bg_color=1A1B27&hide_border=true" width="100%"/>
 </div>
 
-<!-- Анимированная разделительная линия -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💾 Мой технологический радар
 
 <div align="center">
