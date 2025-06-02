@@ -108,10 +108,6 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=DaYzTm&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
 </p>
 
-<!-- График активности -->
-<img src="https://camo.githubusercontent.com/15ba86311cd4a49c8ff3b2455988050d99efd4195b13a34651e178270c62a911/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d4461597a546d267468656d653d72656163742d6461726b2662675f636f6c6f723d31413142323726686964655f626f726465723d74727565" width="100%" alt="GitHub Activity Graph"/>
-</div>
-
 <!-- Анимированная разделительная линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
